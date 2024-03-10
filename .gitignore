@@ -3,3 +3,16 @@
 *.MFC
 *.docx
 *.PGF
+*.cpt
+*.cpt.stdout
+*.fbd
+*.fld
+*.gdb
+*.geom
+*.info
+*.info.json
+*.json
+*.txt
+*.fld
+*.bak
+*.dat

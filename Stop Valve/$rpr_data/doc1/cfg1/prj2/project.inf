@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<version>1</version>
+	<name>StopValve Analysis</name>
+	<uuid>12563cb8-2842-48fb-9845-7c0dfa17f514</uuid>
+	<directory>prj2</directory>
+	<vwr_res_files_dir>1</vwr_res_files_dir>
+	<geom_db_uuid>9eb09508-f578-4f57-9ee1-296c19e7e583</geom_db_uuid>
+	<gdb_light_uuid>bbc67504-6188-499d-ab46-295aa1ef1999</gdb_light_uuid>
+	<model_geom_uuid>cf9f9901-3410-4a64-8212-c753ddb339ce</model_geom_uuid>
+	<template_id/>
+</project>
